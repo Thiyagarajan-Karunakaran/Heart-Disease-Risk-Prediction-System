@@ -27,7 +27,7 @@ An AI-powered healthcare application designed to predict the likelihood of heart
 *   **Scalable Architecture:** Modular, containerized deployment using Docker.
 *   **Data Persistence:** Database support for storing and managing prediction history.
 
-## Video
+## Demo
 
 https://github.com/user-attachments/assets/f6f782b5-bfeb-4413-b1b6-7ac0ded86bbf
 
